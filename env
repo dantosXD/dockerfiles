@@ -1,15 +1,15 @@
-APP_URL=http://in.localhost:8003/
-APP_KEY=<insert your generated key in here>
+APP_URL=http://invoices.kickback/
+APP_KEY=base64:139e9W8hw2nbdS2mOgGT5Yx8otAbSB5axRvfZxrDNrM=
 APP_DEBUG=true
 MULTI_DB_ENABLED=false
 DB_HOST1=db
 DB_PORT1=3306
 DB_USERNAME1=ninja
-DB_PASSWORD1=ninja
+DB_PASSWORD1=Iotanu546
 DB_DATABASE1=ninja
-MYSQL_ROOT_PASSWORD=ninjaAdm1nPassword
+MYSQL_ROOT_PASSWORD=ninjaAdm1nPasswordIotanu546
 MYSQL_USER=ninja
-MYSQL_PASSWORD=ninja
+MYSQL_PASSWORD=Iotanu546
 MYSQL_DATABASE=ninja
 
 #this is a system variable please do not remove
